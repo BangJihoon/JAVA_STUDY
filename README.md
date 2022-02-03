@@ -15,7 +15,4 @@
 
 </br></br>
 
-상세한 설명은 아래 블로그 링크에 글을 통해 확인할 수 있습니다.
-
-티스토리 블로그 : https://bangu4.tistory.com/category/%EC%9D%BC/Java
 
