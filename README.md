@@ -18,22 +18,22 @@
 
 ### 참고 서적
 
-자바의 정석 : https://book.naver.com/bookdb/book_detail.naver?bid=16031391
++ 자바의 정석 : https://book.naver.com/bookdb/book_detail.naver?bid=16031391
 
-모던 자바 인 액션 : https://book.naver.com/bookdb/book_detail.nhn?bid=15261103
++ 모던 자바 인 액션 : https://book.naver.com/bookdb/book_detail.nhn?bid=15261103
 
-이펙티브 자바 3/E : https://book.naver.com/bookdb/book_detail.naver?bid=14097515
++ 이펙티브 자바 3/E : https://book.naver.com/bookdb/book_detail.naver?bid=14097515
 
 
 
 ### 참고 사이트
 
-자바 8 API 문서 :  http://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
++ 자바 8 API 문서 :  http://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 
-자바 중급 강의 : https://programmers.co.kr/learn/courses/9
++ 자바 중급 강의 : https://programmers.co.kr/learn/courses/9
 
-위키독스 : https://wikidocs.net/254
++ 위키독스 : https://wikidocs.net/254
 
-TCP SCHOOL 자바문법 : http://tcpschool.com/java/intro
++ TCP SCHOOL 자바문법 : http://tcpschool.com/java/intro
 
-devkuma(데브쿠마) Java Books  : http://www.devkuma.com/books/pages/2
++ devkuma(데브쿠마) Java Books  : http://www.devkuma.com/books/pages/2
