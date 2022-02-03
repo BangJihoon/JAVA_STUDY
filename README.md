@@ -36,4 +36,4 @@
 
 TCP SCHOOL 자바문법 : http://tcpschool.com/java/intro
 
-서적 뺨치는 JAVA 정리 블로그 : http://www.devkuma.com/books/pages/2
+devkuma(데브쿠마) Java Books  : http://www.devkuma.com/books/pages/2
