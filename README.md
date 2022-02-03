@@ -16,3 +16,24 @@
 </br></br>
 
 
+### 참고 서적
+
+https://book.naver.com/bookdb/book_detail.naver?bid=16031391
+
+https://book.naver.com/bookdb/book_detail.nhn?bid=15261103
+
+https://book.naver.com/bookdb/book_detail.naver?bid=14097515
+
+
+
+### 참고 사이트
+
+http://docs.oracle.com/javase/7/docs/api/java/lang/Object.html
+
+https://programmers.co.kr/learn/courses/9
+
+https://wikidocs.net/254
+
+http://tcpschool.com/java/intro
+
+http://www.devkuma.com/books/pages/2
