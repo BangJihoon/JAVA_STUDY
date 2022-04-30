@@ -1,4 +1,4 @@
-package BinarySearch;
+package JAVA.BinarySearch;
 import java.util.Arrays;
 public class 입국심사 {
 	public static long solution(int n, int[] times) {

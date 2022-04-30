@@ -1,4 +1,4 @@
-package BinarySearch;
+package JAVA.BinarySearch;
 import java.util.Arrays;
 
 public class 징검다리 {

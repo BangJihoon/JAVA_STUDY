@@ -1,4 +1,4 @@
-package DFSBFS;
+package JAVA.DFSBFS;
 
 import java.util.ArrayList;
 import java.util.Arrays;

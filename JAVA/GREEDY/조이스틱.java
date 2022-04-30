@@ -1,4 +1,4 @@
-package GREEDY;
+package JAVA.GREEDY;
 
 public class 조이스틱 {
 	public static int minMove(char ch) {

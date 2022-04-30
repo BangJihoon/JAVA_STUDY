@@ -1,4 +1,4 @@
-package 동적계획법;
+package JAVA.동적계획법;
 public class 등굣길 {
 	public static int solution(int m, int n, int[][] puddles) {
 		int [][] a = new int[n][m];

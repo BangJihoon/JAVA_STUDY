@@ -1,4 +1,4 @@
-package FullSearch;
+package JAVA.FullSearch;
 
 public class 카펫 {
     public static int[] solution(int brown, int yellow) {

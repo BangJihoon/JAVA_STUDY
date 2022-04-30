@@ -1,4 +1,4 @@
-package GREEDY;
+package JAVA.GREEDY;
 import java.util.ArrayDeque;
 import java.util.Arrays;
 

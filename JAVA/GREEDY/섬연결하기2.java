@@ -1,4 +1,4 @@
-package GREEDY;
+package JAVA.GREEDY;
 
 import java.util.Arrays;
 import java.util.Comparator;

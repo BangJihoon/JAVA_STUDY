@@ -1,4 +1,4 @@
-package DFSBFS;
+package JAVA.DFSBFS;
 
 public class 타겟넘버 {
 	static int answer=0;

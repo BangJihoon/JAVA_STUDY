@@ -1,4 +1,4 @@
-package SORT;
+package JAVA.SORT;
 
 public class BasicSort {
 	 public static void bubbleSort(int[] arr) {

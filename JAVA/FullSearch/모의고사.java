@@ -1,4 +1,4 @@
-package FullSearch;
+package JAVA.FullSearch;
 
 import java.util.ArrayList;
 import java.util.List;

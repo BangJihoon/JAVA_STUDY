@@ -1,4 +1,4 @@
-package 동적계획법;
+package JAVA.동적계획법;
 
 public class 정수삼각형 {
 	static int answer=0;

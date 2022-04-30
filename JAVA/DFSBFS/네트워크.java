@@ -1,4 +1,4 @@
-package DFSBFS;
+package JAVA.DFSBFS;
 
 
 public class 네트워크 {

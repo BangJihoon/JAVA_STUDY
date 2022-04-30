@@ -1,4 +1,4 @@
-package SET;
+package JAVA.SET;
 
 import java.util.ArrayList;
 import java.util.Arrays;

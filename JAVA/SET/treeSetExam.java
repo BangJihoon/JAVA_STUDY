@@ -1,4 +1,4 @@
-package SET;
+package JAVA.SET;
 
 import java.util.Arrays;
 import java.util.TreeSet;
